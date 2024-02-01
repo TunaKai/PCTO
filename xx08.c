@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-    int main()
+int main()
 
 {
     int temp;
@@ -20,14 +20,5 @@
         printf("Your Temperature In Fahrenheit Is: %d\n", tempF);
         printf("Your Temperature In Kelvin Is: %.2f\n", tempK);
     }
-    return(0);
-    
-
-
-
-
-
-
-
-
+    return (0);
 }
